@@ -1,2 +1,13 @@
-# pyburger
-Learn Django by building website pyburger
+<h1>Django의 동작 이해</h1>
+<p>
+  햄버거 목록을 저장하고 보여주는 pyburger 사이트를 만들며 Django가 어떻게 동작하는지 알아본다.
+  해당 프로젝트에서는 아래 기능들을 실습한다.
+</p>
+<ul>
+  <li>Django서버를 실행하고, 브라우저에 URL을 입력해서 서버 내용 보기</li>
+  <li>View함수를 사용해 원하는 내용을 브라우저에 돌려주기</li>
+  <li>Django의 데이터 모델을 정의하고, 만들어진 실제 데이터베이스 구성 살펴보기</li>
+  <li>Django admin을 사용해 데이터베이스 내용을 조회하고 추가하기</li>
+  <li>Template을 사용해 HTML파일로 응답 형태 구성하기</li>
+  <li>브라우저에서 입력받은 값을 View함수에서 사용하기</li>
+</ul>
