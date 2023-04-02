@@ -1,3 +1,9 @@
+"""
+Django에서 models.py파일은 spring에서 vo와 같은 역할을 한다고 보면 됨
+
+여기서 하나의 클래스( 모델 )가 vo와 같은 의미이며 하나의 DB 테이블과 같다고 생각하면 된다.
+
+"""
 from django.db import models # Django가 가진 모듈 가져오기
 
 # Create your models here.
