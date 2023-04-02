@@ -31,6 +31,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'burgers', # 기존 항목들의 맨 위에 기록( 새로 추가한 앱 burgers )
+    
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
